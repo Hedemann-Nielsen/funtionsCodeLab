@@ -4,3 +4,7 @@
 helloWorld("hello world, med parameter");
 
 // her skal du skrive din funktion
+
+function helloWorld(hiHello){
+console.log(hiHello);
+}
